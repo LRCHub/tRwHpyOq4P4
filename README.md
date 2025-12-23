@@ -1,103 +1,98 @@
-# Creepy Nuts – オトノケ
+# Creepy Nuts – Otonoke - オトノケ
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan
-
-Akirame no warui yakara
-Anta ra nanka ja taba natte mo kanawan
-Kuwabara kuwabara kuwabara
-Me ni mo tomaran hayasa
-Hey kutabaran damaran
-Sagaran oshitoosu wamama
-Hey soko dokina jama da
-Ore wa mou hitori no anata
-
-Sada-chan Kaya-chan wansaka yomi no kuni
-Wonderland
-Hey go-kito chuu ni nanda ga yoji yonjyuu yonpun mawarattara
-Yonshaku yonsun yonbu sama ga kaminaatcha bang around
-Hey yobu koe ga shitan nara
-Moji doori otsukare sama yan
-
-Hairetai reitai reitai reitai reitai reitai
-Hisshi de haiideta saki de kiri wa hareta
-Dekoto boko ga umaku kamiattara
-Itami ga kasanattara
-
-Kokoro karada atama
-Minagitte yuku nandaka
-Senaka ni ima hane ga haeta naraba
-Kurayami kara osaraba ayy
-Tobitatte yuku kanata ayy
-Kokoro karada atama
-Natsukashii atatakasa
-Ashi moto ni ima hana ga saita naraba
-Kurayami kara osaraba ayy
-Tobitatte yuku kanata hoo
-Nando datte ikiru
-Omae ya kimi no naka
-Mabuta no ura ya mimi no naka
-Mune no oku ni itsuite iru merodii rizumu ni
-
-Yeah
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan
-
-Kyou mo sai no kawara domannaka
-Tsumia gete ku top of top (top of top)
-Oni to chanbara
-The lyrical chainsaw massacre
-Wataru oounabara hanauta singin' sha-la-la (la-la)
-Haraitai no nara matudai
-Made no satsutaba (okay?)
-Dare ga hiraita ka pan dora
-Ato wa nani ga attemo shiran ga na (no way)
-Nanbyakunen matta
-Ka chou hisashiburi no shaba da (ooh)
-Gaki ya wakaba mada
-Kocchi kunjan nee yo baka ga
-Ima tashika ni me ga atta na
-Kouyuu koto ka yo shamaran
-
-Hairetai reitai reitai reitai reitai reitai
-Nemuri akita saki de kimi ga matteta
-Tate to hoko ga kata o daki attara
-Ikari ga kiesattara
-
-Kokoro karada atama
-Minagitte yuku nandaka
-Senaka ni ima hane ga haeta naraba
-Kurayami kara osaraba ayy
-Tobitatte yuku kanata ayy
-Kokoro karada atama
-Natsukashii atatakasa
-Ashi moto ni ima hana ga saita naraba
-Kurayami kara osaraba ayy
-Tobitatte yuku kanata hoo
-Nando datte ikiru
-Omae ya kimi no naka
-Mabuta no ura ya mimi no naka
-Mune no oku ni itsuite iru merodii rizumu ni
-Yeah
-
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan dandadan
-Dandadan
-Dandadan dandadan dandadan
+```lrc
+[00:00.00] Dandadan, dandadan, dandadan, dandadan, dandadan
+[00:03.47] Dandadan, dandadan, dandadan, dandadan, dandadan
+[00:06.29] Dandadan, dandadan, dandadan, dandadan, dandadan
+[00:09.05] Dandadan, dandadan, dandadan
+[00:23.05] 
+[00:11.05] Akirame no warui yakara
+[00:12.40] Antara nanka ja taba natte mo kanawan
+[00:14.67] Kuwabara, kuwabara, kuwabara
+[00:16.11] Me ni mo tomaran hayasa, hey
+[00:17.68] Kutabaran damaran
+[00:18.68] Sagaran oshitoosu wagamama, hey
+[00:20.47] Soko doki na jama da ore wa mou hitori no anata
+[00:23.33] Sada-Chan, Kaya-Chan
+[00:24.34] Wansaka yomi no kuni wonderland, hey
+[00:26.39] Gokitouchuu ni nanda ga
+[00:27.42] Yonji, yonjuu, yonpun mawattara
+[00:28.95] Yonshaku, yonsun, yonpun sama ga
+[00:30.64] Kaminaccha bang around, hey
+[00:32.11] Yobu koe ga shitan nara
+[00:33.04] Moji doori otsukare sama yan
+[00:47.04] 
+[00:34.71] Haireta
+[00:35.30] Haireta
+[00:35.81] Haireta
+[00:36.38] Haireta
+[00:36.86] Haireta
+[00:37.86] Hisshi de haideta saki de kiri wa hareta
+[00:40.71] Deko to boko ga umaku kamiattara
+[00:43.19] Itami ga kasanattara
+[00:53.19] 
+[00:45.09] Kokoro karada atama
+[00:46.49] Minagitte yuku nandaka
+[00:47.93] Senaka ni ima hane ga haeta naraba
+[00:50.77] Kurayami kara osaraba, ay
+[00:53.53] Tobitatte yuku kanata, ay
+[01:06.03] 
+[00:56.21] Kokoro karada atama
+[00:57.61] Natsukashii atataka sa
+[00:59.26] Ashimoto ni ima hana ga saita naraba
+[01:02.13] Kurayami kara osaraba, ay
+[01:04.93] Tobitatte yuku kanata, woah!
+[01:07.40] Nando datte ikiru omae ya kimi no naka
+[01:11.41] Mabuta no ura ya mimi no naka
+[01:14.24] Mune no oku ni itsuiteru merodii
+[01:17.73] Rizumu ni, yeah
+[01:25.23] 
+[01:19.43] Dandadan, dandadan, dandadan, dandadan, dandadan
+[01:22.42] Dandadan, dandadan, dandadan, dandadan, dandadan
+[01:25.22] Dandadan, dandadan, dandadan, dandadan, dandadan
+[01:28.04] Dandadan, dandadan, dandadan
+[01:42.04] 
+[01:31.40] Kyou mo sainokawara domannaka (Woah)
+[01:32.90] Tsumiageteku top of top (Top of top)
+[01:35.03] Oni to chanbara, the lyrical chainsaw massacre (Brum)
+[01:38.03] Wataru oounabara hana uta singin' "Sha-la-la" (La-la)
+[01:40.90] Haraitai no nara matsudai made no satsutaba (Okay?)
+[01:43.75] Dare ga hiraita ka Pandora
+[01:45.16] Ato wa nani ga attemo shirangana (No way!)
+[01:46.74] Nanbyaku nen matta ka chou hisashiburi no shaba da, hey
+[01:49.81] Gaki ya wakaba mada kocchi kon janee yo baka ga
+[01:52.10] Ima tashika ni me ga atta na
+[01:53.97] Koo yuu koto ka yo shamaran
+[02:07.47] 
+[01:55.38] Haireta
+[01:55.84] Haireta
+[01:56.42] Haireta
+[01:56.97] Haireta
+[01:57.51] Haireta
+[01:58.47] Nemuri akita saki de kimi ga matteta
+[02:01.31] Tate to hoko ga kata wo dakiattara
+[02:03.79] Ikari ga kiesattara
+[02:13.29] 
+[02:06.23] Kokoro karada atama
+[02:07.51] Minagitte yuku nandaka
+[02:08.97] Senaka ni ima hane ga haeta naraba
+[02:11.75] Kurayami kara osaraba, ay
+[02:14.51] Tobitatte yuku kanata, ay
+[02:27.01] 
+[02:17.20] Kokoro karada atama
+[02:18.49] Natsukashii atataka sa
+[02:19.90] Ashimoto ni ima hana ga saita naraba
+[02:22.79] Kurayami kara osaraba, ay
+[02:25.57] Tobitatte yuku kanata, woah!
+[02:28.07] Nando datte ikiru omae ya kimi no naka
+[02:32.13] Mabuta no ura ya mimi no naka
+[02:34.94] Mune no oku ni itsuiteru merodii
+[02:38.53] Rizumu ni, yeah
+[02:46.03] 
+[02:51.78] Dandadan, dandadan, dandadan, dandadan, dandadan
+[02:54.54] Dandadan, dandadan, dandadan, dandadan, dandadan
+[02:57.34] Dandadan, dandadan, dandadan, dandadan, dandadan
+[03:00.19] Dandadan, dandadan, dandadan
 ```
